@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #ffdddd;
+  padding-top: 5rem;
+}
+
+#karya {
+  background-color: #ffdddd;
+}
+
+a :hover {
+  text-decoration: none;
+}
+
+section {
+  padding-top: 5rem;
+}
